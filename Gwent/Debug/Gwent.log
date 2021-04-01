@@ -1,0 +1,5 @@
+﻿  Game.cpp
+d:\课程\大二下\游戏设计\作业\gwent_poker\gwent\game.h(3): fatal error C1083: 无法打开包括文件: “SFML/Graphics.hpp”: No such file or directory
+  main.cpp
+d:\课程\大二下\游戏设计\作业\gwent_poker\gwent\game.h(3): fatal error C1083: 无法打开包括文件: “SFML/Graphics.hpp”: No such file or directory
+  正在生成代码...

@@ -1,0 +1,176 @@
+﻿  Game.cpp
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“Current_Player”的左侧
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.h(71): warning C4091: “typedef ”: 没有声明变量时忽略“GameState”的左侧
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(236): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(237): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(238): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(239): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(268): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(273): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(273): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(278): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(278): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(300): warning C4305: “参数”: 从“double”到“float”截断
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(301): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(304): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(305): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(312): warning C4305: “参数”: 从“double”到“float”截断
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(335): warning C4305: “参数”: 从“double”到“float”截断
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(336): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(350): warning C4305: “参数”: 从“double”到“float”截断
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(351): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(365): warning C4305: “参数”: 从“double”到“float”截断
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(366): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(391): warning C4305: “参数”: 从“double”到“float”截断
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(392): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(406): warning C4305: “参数”: 从“double”到“float”截断
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(407): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(421): warning C4305: “参数”: 从“double”到“float”截断
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(422): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(466): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(472): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(479): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(481): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(526): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(532): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(538): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(545): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(567): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(573): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(579): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(586): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(605): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(608): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(608): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(613): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(616): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(616): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(621): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(624): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(624): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(632): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(635): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(635): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(640): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(643): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(643): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(648): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(651): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(651): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(830): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(913): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(996): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(1107): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(1192): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\课程\大二下\游戏设计\作业\gwent\gwent\game.cpp(1276): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Gwent.vcxproj -> D:\课程\大二下\游戏设计\作业\Gwent\x64\Debug\Gwent.exe
